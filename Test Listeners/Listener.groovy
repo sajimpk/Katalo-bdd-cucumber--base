@@ -40,6 +40,6 @@ class Listener {
 	 */
 	@BeforeTestCase
 	def beforeTestCase(TestCaseContext testCaseContext) {
-		CucumberKW.GLUE = ['common', 'operations']
+		CucumberKW.GLUE = [ 'operations']
 	}
 }
