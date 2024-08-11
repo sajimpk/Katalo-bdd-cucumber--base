@@ -32,10 +32,11 @@ class Listener {
 	@AfterTestCase
 	def sampleAfterTestCase(TestCaseContext testCaseContext) {
 		WebUI.closeBrowser();
+		println("step done")
 	}
 
 	/**
-	 * Add the GLUE option for Cucumber to locate the step definition files.
+	 * Add the GLUE option for Cucumber to locate the step definition files pakage name.
 	 * @param testCaseContext related information of the executed test case.
 	 */
 	@BeforeTestCase
