@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_All of Bangladesh_btn--1gFez default--T8kE3 small--1MQ15 search-button--1_VmY gtm-home-search-click</name>
+   <tag></tag>
+   <elementGuidId>66cf2154-a459-434f-95a7-e229115d4f16</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='submit']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn--1gFez.default--T8kE3.small--1MQ15.search-button--1_VmY.gtm-home-search-click</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-testid=&quot;search-bar-v2&quot;] >> internal:role=button</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>bcc221d8-f61f-4e67-aeea-efd41618e374</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn--1gFez default--T8kE3 small--1MQ15 search-button--1_VmY gtm-home-search-click</value>
+      <webElementGuid>96833980-f97c-4e5d-87f3-3a1f2d8b7718</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>362719f9-cbc9-4ee5-96dd-8cce2608ac79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app-wrapper&quot;)/div[@class=&quot;top-container--12FJu all justify-content-flex-start--1Xozy align-items-normal--vaTgD flex-wrap-nowrap--3IpfJ flex-direction-column--3aExp flex--3fKk1&quot;]/div[@class=&quot;desktop-max-width-container--3xntY main-content-area--o-zsx skeleton-content--2JN5q&quot;]/div[@class=&quot;search-container--1aaDi justify-content-center--3YVEn align-items-flex-end--Fg8OY flex-wrap-nowrap--3IpfJ flex-direction-row--27fh1 flex--3fKk1&quot;]/div[@class=&quot;section--3qPXi inner--2X7Be justify-content-flex-end--jceWj align-items-center--159cZ flex-wrap-nowrap--3IpfJ flex-direction-column--3aExp flex--3fKk1&quot;]/div[@class=&quot;search-bar-container--tnPU2&quot;]/form[@class=&quot;search-form--mexm-&quot;]/div[@class=&quot;search-button-container--Ur5ku gtm-home-search-click&quot;]/button[@class=&quot;btn--1gFez default--T8kE3 small--1MQ15 search-button--1_VmY gtm-home-search-click&quot;]</value>
+      <webElementGuid>7074151d-0ae1-4043-8737-c1e8fa703d89</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>4fbc3366-b0c4-44e9-a7a5-4a7255ecafba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app-wrapper']/div/div[3]/div[2]/div/div/form/div/button</value>
+      <webElementGuid>9e9f59f8-7969-454b-8d40-a72d2a763e7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All of Bangladesh'])[1]/following::button[1]</value>
+      <webElementGuid>bb90f9fb-e77d-4ec3-ab24-61d1aaf22b7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='POST YOUR AD'])[1]/following::button[2]</value>
+      <webElementGuid>a2460da5-8c90-4a67-886c-aff5fd93504f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Browse items by category'])[1]/preceding::button[1]</value>
+      <webElementGuid>b1ad7d96-8717-4131-9730-346c66bb0904</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Start making money!'])[1]/preceding::button[1]</value>
+      <webElementGuid>b9af5aa5-1a60-429a-987b-9ca8455b8a7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/button</value>
+      <webElementGuid>ee6b8bcd-3b4d-4e9a-a64f-5bac1bb79990</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit']</value>
+      <webElementGuid>cc47285e-0f70-48be-9faf-3c9a276766e4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
